@@ -6,8 +6,7 @@
 
 .conteiner{
     width: 875px;
-    height: 817px;
-    margin: 0px 150px;
+    margin: auto;
     border: 15px double gray;
     background-color: antiquewhite;
 }
